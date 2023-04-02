@@ -39,8 +39,7 @@ public class Main {
 
             }
 
-        }  //чисто для теста
-
+        }  // POPITKA OBNOVLENIA CODA NA NOVIY BRANCH
 
     public static boolean isNumeric(String str) {
         try {
