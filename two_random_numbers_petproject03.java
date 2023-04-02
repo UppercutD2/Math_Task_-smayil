@@ -39,7 +39,7 @@ public class Main {
 
             }
 
-        }    // POPITKA OBNOVLENIA CODA NA NOVIY BRANCH. should not be in main branch
+        }    // POPITKA OBNOVLENIA CODA NA NOVIY BRANCH. should not be in main branch. this can be visible only in last branch
 
 
     public static boolean isNumeric(String str) {
